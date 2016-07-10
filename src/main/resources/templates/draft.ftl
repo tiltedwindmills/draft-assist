@@ -75,14 +75,14 @@
 			</div>
 
 			<ul class="list-group">
-				<li class="list-group-item">Quarterback <span class="badge">${(draftedPositionMap["QB"]!0) / 2}</span></li>
-				<li class="list-group-item">Running Back <span class="badge">${(draftedPositionMap["RB"]!0) / 2}</span></li>
-				<li class="list-group-item">Wide Receiver <span class="badge">${(draftedPositionMap["WR"]!0) / 2}</span></li>
-				<li class="list-group-item">Tight End <span class="badge">${(draftedPositionMap["TE"]!0) / 2}</span></li>
-				<li class="list-group-item">Kicker <span class="badge">${(draftedPositionMap["PK"]!0) / 2}</span></li>
-				<li class="list-group-item">Defensive Line <span class="badge">${((draftedPositionMap["DT"]!0) + (draftedPositionMap["DE"]!0)) / 2}</span></li>
-				<li class="list-group-item">Linebacker <span class="badge">${(draftedPositionMap["LB"]!0) / 2}</span></li>
-				<li class="list-group-item">Defensive Back <span class="badge">${((draftedPositionMap["CB"]!0) + (draftedPositionMap["S"]!0))  / 2}</span></li>
+				<li class="list-group-item">Quarterback <span class="badge">${(draftedPositionMap["QB"]!0)}</span></li>
+				<li class="list-group-item">Running Back <span class="badge">${(draftedPositionMap["RB"]!0)}</span></li>
+				<li class="list-group-item">Wide Receiver <span class="badge">${(draftedPositionMap["WR"]!0)}</span></li>
+				<li class="list-group-item">Tight End <span class="badge">${(draftedPositionMap["TE"]!0)}</span></li>
+				<li class="list-group-item">Kicker <span class="badge">${(draftedPositionMap["PK"]!0)}</span></li>
+				<li class="list-group-item">Defensive Line <span class="badge">${((draftedPositionMap["DT"]!0) + (draftedPositionMap["DE"]!0))}</span></li>
+				<li class="list-group-item">Linebacker <span class="badge">${(draftedPositionMap["LB"]!0)}</span></li>
+				<li class="list-group-item">Defensive Back <span class="badge">${((draftedPositionMap["CB"]!0) + (draftedPositionMap["S"]!0))}</span></li>
 			</ul>
 
 		</div> <!-- end col-md-4 -->

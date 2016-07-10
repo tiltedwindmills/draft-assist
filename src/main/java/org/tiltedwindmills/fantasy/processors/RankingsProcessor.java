@@ -51,8 +51,9 @@ public class RankingsProcessor extends PlayerProcessor {
 
 						// then, iterate the picks and increment when taken
 						for (DraftPick pick : picks) {
-							if (pick != null && pick.getPlayerId() == draftedPlayer.getPlayer().getId())
+							if (pick != null && StringUtils.equals(pick.getPlayerId(), draftedPlayer.getPlayer().getId())) {
 								draftedPlayer.drafted();
+							}
 						}
 
 						if (doNotDraftList != null && doNotDraftList.contains(draftedPlayer.getPlayer().getId())) {

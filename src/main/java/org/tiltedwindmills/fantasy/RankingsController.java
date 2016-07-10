@@ -176,12 +176,10 @@ public class RankingsController extends AbstractController {
 			// otherwise, load the players from this tier into the list.
 			if (tier != null && tier.getDraftedPlayers() != null) {
 				for (DraftedPlayer draftedPlayer : tier.getDraftedPlayers()) {
-
-					for (int i = 0; i < 2 - draftedPlayer.getTimesDrafted(); i++) {
-
+					if (draftedPlayer.getTimesDrafted() == 0) {
 						LOG.debug("Adding '{}' to draft list.", draftedPlayer.getPlayer());
 						tieredPlayers.add(new TieredPlayer(draftedPlayer.getPlayer(), tierIndex));
-//						myNextPick--;
+	//					myNextPick--;
 					}
 				}
 			}

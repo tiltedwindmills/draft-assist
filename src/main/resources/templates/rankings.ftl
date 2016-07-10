@@ -46,9 +46,8 @@
 				<#if rankings[rankingNumber]?? && rankings[rankingNumber].rankedPlayers[recordNumber]??>
 					<#assign draftedPlayer = rankings[rankingNumber].rankedPlayers[recordNumber]>
 
-					<#if draftedPlayer.timesDrafted == 2><#assign class="danger">
+					<#if draftedPlayer.timesDrafted == 1><#assign class="danger">
 					<#elseif draftedPlayer.doNotDraft><#assign class="info">
-					<#elseif draftedPlayer.timesDrafted == 1><#assign class="warning">
 					<#else><#assign class="">
 					</#if>
 					<td class="${class!""}">

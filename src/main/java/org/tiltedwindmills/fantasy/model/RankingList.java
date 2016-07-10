@@ -32,7 +32,7 @@ public class RankingList extends AbstractObject {
 
 		if (rankedPlayers != null) {
 			for (int i = 0; i < rankedPlayers.size(); i++) {
-				if (rankedPlayers.get(i).getTimesDrafted() < 2 && !rankedPlayers.get(i).isDoNotDraft()) {
+				if (rankedPlayers.get(i).getTimesDrafted() < 1 && !rankedPlayers.get(i).isDoNotDraft()) {
 					return i;
 				}
 			}
