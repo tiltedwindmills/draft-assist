@@ -14,6 +14,7 @@
 				<thead>
 				<tr>
 					<th>Pick</th>
+					<th>Overall</th>
 					<th>Picks Away</th>
 					<th>Tier</th>
 					<th>Player</th>
@@ -31,6 +32,7 @@
 
 						<tr class="${myPickClass!""}">
 							<td>${pick.round}.${pick.pick}</td>
+							<td>${pick.round?number * 12 + pick.pick?number}</td>
 							<td>${picksAway}</td>
 
 							<#if tieredPlayers?? &&
@@ -41,17 +43,18 @@
 								<#assign tierNumber = tieredPlayers[tieredPlayerIndex].tierNumber + 1>
 								<td>
 
-									<#if tierNumber == 1><#assign tierClass="label-success">
-									<#elseif tierNumber == 2><#assign tierClass="label-primary">
-									<#elseif tierNumber == 3><#assign tierClass="label-info">
-									<#elseif tierNumber == 4><#assign tierClass="label-warning">
+									<#if tierNumber % 6 == 1><#assign tierClass="label-success">
+									<#elseif tierNumber % 6== 2><#assign tierClass="label-primary">
+									<#elseif tierNumber % 6== 3><#assign tierClass="label-info">
+									<#elseif tierNumber % 6== 4><#assign tierClass="label-warning">
+									<#elseif tierNumber %6 == 5><#assign tierClass="label-danger">
 									<#else><#assign tierClass="label-default">
 									</#if>
 
 									<span class="label ${tierClass}">Tier ${tierNumber}</span>
 								</td>
 
-								<td>${tieredPlayers[tieredPlayerIndex].player}</td>
+								<td>${tieredPlayers[tieredPlayerIndex].player} ( ${tieredPlayers[tieredPlayerIndex].player.age} )</td>
 
 								<#assign tieredPlayerIndex = tieredPlayerIndex + 1 >
 							<#else>
