@@ -18,10 +18,8 @@
 							<#list tier.draftedPlayers as draftedPlayer>
 								<#if draftedPlayer?? && draftedPlayer.player.position == position>
 
-									<#if draftedPlayer.timesDrafted == 2>
+									<#if draftedPlayer.timesDrafted gt 0>
 										<#assign class="list-group-item-danger">
-									<#elseif draftedPlayer.timesDrafted == 1>
-										<#assign class="list-group-item-warning">
 									<#else>
 										<#assign class="">
 									</#if>

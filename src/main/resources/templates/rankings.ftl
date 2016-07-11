@@ -29,8 +29,8 @@
 
 		<tbody>
 		<#list startRecord..recordCount-1 as recordNumber>
-		<#if (((positionCount)!0)/2)?floor == recordNumber+1><#assign rowBorderClass="border_bottom">
-		<#elseif (((positionCount)!0)/2)?floor == recordNumber+2><#assign rowBorderClass="border_bottom">
+		<#if ((positionCount)!0) == recordNumber><#assign rowBorderClass="border_bottom">
+		<#elseif ((positionCount)!0) == recordNumber+1><#assign rowBorderClass="border_bottom">
 		<#else><#assign rowBorderClass="">
 		</#if>
 		<tr class="${rowBorderClass}">
