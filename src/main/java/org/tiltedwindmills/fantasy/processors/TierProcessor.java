@@ -83,6 +83,9 @@ public class TierProcessor extends PlayerProcessor {
 
 		// iterate the rankings lists
 		for (Tier tier : tiers) {
+
+			tier.setAllDrafted(true);
+
 			if (tier != null && !tier.getDraftedPlayers().isEmpty()) {
 
 				// for each player on this list...
@@ -98,6 +101,10 @@ public class TierProcessor extends PlayerProcessor {
 							if (pick != null && StringUtils.equals(pick.getPlayerId(), draftedPlayer.getPlayer().getId())) {
 								draftedPlayer.drafted();
 							}
+						}
+
+						if (draftedPlayer.getTimesDrafted() == 0) {
+							tier.setAllDrafted(false);
 						}
 					}
 				}

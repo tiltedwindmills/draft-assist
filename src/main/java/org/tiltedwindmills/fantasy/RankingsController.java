@@ -50,6 +50,9 @@ public class RankingsController extends AbstractController {
 	private TierProcessor tierProcessor;
 
 	@Resource
+	private List<Tier> tiers;
+
+	@Resource
 	private List<RankingList> adpList;
 
 	@Resource
@@ -82,10 +85,6 @@ public class RankingsController extends AbstractController {
 	@Resource
 	private List<RankingList> fantasypros;
 
-	@Resource
-	private List<Tier> tiers;
-
-
 
 	@Value("${myfranchise}")
 	private String myFranchise;
@@ -108,17 +107,6 @@ public class RankingsController extends AbstractController {
 		checkNotNull(fantasypros, "dodds cannot be null");
 
 		checkNotNull(players, "players list cannot be null");
-	}
-
-
-	@RequestMapping("/")
-	public String tiers(final Map<String, Object> model) {
-
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
-		tierProcessor.mergeDraft(tiers, picks);
-
-		model.put("tiers", tiers);
-		return "tiers";
 	}
 
 	@RequestMapping("/draft")

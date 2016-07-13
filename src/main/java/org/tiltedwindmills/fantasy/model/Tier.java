@@ -12,9 +12,11 @@ public class Tier extends AbstractObject {
 
 	private Set<DraftedPlayer> draftedPlayers;
 
+	private boolean allDrafted;
+
 	public Set<DraftedPlayer> getDraftedPlayers() {
 		if (draftedPlayers == null) {
-			draftedPlayers = new LinkedHashSet<DraftedPlayer>();
+			draftedPlayers = new LinkedHashSet<>();
 		}
 
 		return draftedPlayers;
@@ -27,7 +29,7 @@ public class Tier extends AbstractObject {
 	public void add(Player player) {
 
 		if (draftedPlayers == null) {
-			draftedPlayers = new LinkedHashSet<DraftedPlayer>();
+			draftedPlayers = new LinkedHashSet<>();
 		}
 
 		if (player != null) {
@@ -38,5 +40,13 @@ public class Tier extends AbstractObject {
 
 			draftedPlayers.add(draftedPlayer);
 		}
+	}
+
+	public final boolean isAllDrafted() {
+		return allDrafted;
+	}
+
+	public final void setAllDrafted(final boolean allDrafted) {
+		this.allDrafted = allDrafted;
 	}
 }
