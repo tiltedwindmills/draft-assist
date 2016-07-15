@@ -1,124 +1,999 @@
-DLF 7/8,FBG - 7/8,Bloom - 7/8,Harmon Tiers,ffcouchcoach
-"Beckham, Odell","Beckham, Odell","Beckham, Odell","Beckham, Odell","Beckham, Odell"
-"Brown, Antonio","Hopkins, DeAndre","Brown, Antonio","Brown, Antonio","Hopkins, DeAndre"
-"Jones, Julio","Brown, Antonio","Jones, Julio","Jones, Julio","Brown, Antonio"
-"Hopkins, DeAndre","Evans, Mike","Hopkins, DeAndre","Robinson, Allen","Jones, Julio"
-"Robinson, Allen","Robinson, Allen","Green, A.J.","Hopkins, DeAndre","Robinson, Allen"
-"Cooper, Amari","Jones, Julio","Evans, Mike","Green, A.J.","Cooper, Amari"
-"Watkins, Sammy","Cooper, Amari","Allen, Keenan","Evans, Mike","Evans, Mike"
-"Bryant, Dez","Green, A.J.","Cooper, Amari","Allen, Keenan","Watkins, Sammy"
-"Jeffery, Alshon","Bryant, Dez","Robinson, Allen","Watkins, Sammy","Green, A.J."
-"Evans, Mike","Watkins, Sammy","Watkins, Sammy","Cooper, Amari","Bryant, Dez"
-"Green, AJ","Allen, Keenan","Bryant, Dez","Bryant, Dez","Allen, Keenan"
-"Allen, Keenan","Jeffery, Alshon","Jeffery, Alshon","Jeffery, Alshon","Cooks, Brandin"
-"Cooks, Brandin","Cooks, Brandin","Cooks, Brandin","Thomas, Demaryius","Jeffery, Alshon"
-"Thomas, Demaryius","Cobb, Randall","Hilton, T.Y.","Nelson, Jordy","Parker, DeVante"
-"Cobb, Randall","White, Kevin","Thomas, Demaryius","Cobb, Randall","Thomas, Demaryius"
-"Landry, Jarvis","Parker, DeVante","Cobb, Randall","Brown, John","Moncrief, Donte"
-"Hilton, TY","Treadwell, Laquon","Moncrief, Donte","Cooks, Brandin","Treadwell, Laquon"
-"Parker, Devante","Coleman, Corey","Treadwell, Laquon","Landry, Jarvis","Matthews, Jordan"
-"Treadwell, Laquon","Thomas, Demaryius","White, Kevin","Hilton, T.Y.","White, Kevin"
-"Matthews, Jordan","Hilton, T.Y.","Floyd, Michael","Treadwell, Laquon","Green-Beckham, Dorial"
-"Green-Beckham, Dorial","Moncrief, Donte","Brown, John","Moncrief, Donte","Hilton, T.Y."
-"White, Kevin","Doctson, Josh","Coleman, Corey","Coleman, Corey","Landry, Jarvis"
-"Benjamin, Kelvin","Benjamin, Kelvin","Doctson, Josh","White, Kevin","Coleman, Corey"
-"Doctson, Josh","Floyd, Michael","Landry, Jarvis","Floyd, Michael","Doctson, Josh"
-"Floyd, Michael","Nelson, Jordy","Lockett, Tyler","Lockett, Tyler","Cobb, Randall"
-"Maclin, Jeremy","Green-Beckham, Dorial","Benjamin, Kelvin","Benjamin, Kelvin","Floyd, Michael"
-"Coleman, Corey","Lockett, Tyler","Parker, DeVante","Marshall, Brandon","Benjamin, Kelvin"
-"Moncrief, Donte","Matthews, Jordan","Nelson, Jordy","Doctson, Josh","Tate, Golden"
-"Marshall, Brandon","Landry, Jarvis","Maclin, Jeremy","Green-Beckham, Dorial","Lockett, Tyler"
-"Lockett, Tyler","Shepard, Sterling","Shepard, Sterling","Shepard, Sterling","Nelson, Jordy"
-"Nelson, Jordy","Brown, John","Baldwin, Doug","Parker, DeVante","Maclin, Jeremy"
-"Decker, Eric","Marshall, Brandon","Tate, Golden","Maclin, Jeremy","Thomas, Michael"
-"Edelman, Julian","Perriman, Breshad","Thomas, Michael","Bryant, Martavis","Marshall, Brandon"
-"Tate, Golden","Maclin, Jeremy","Crabtree, Michael","Decker, Eric","Diggs, Stefon"
-"Sanders, Emmanuel","Tate, Golden","Decker, Eric","Baldwin, Doug","Shepard, Sterling"
-"Brown, John","Decker, Eric","Edelman, Julian","Matthews, Jordan","Boyd, Tyler"
-"Hurns, Allen","Edelman, Julian","Marshall, Brandon","Sanders, Emmanuel","Hurns, Allen"
-"Shepard, Sterling","Baldwin, Doug","Fitzgerald, Larry","Fitzgerald, Larry","Sanders, Emmanuel"
-"Baldwin, Doug","Sanders, Emmanuel","Sanders, Emmanuel","Edelman, Julian","Brown, John"
-"Thomas, Michael","Thomas, Michael","Matthews, Jordan","Snead, Willie","Baldwin, Doug"
-"Diggs, Stefon","Dorsett, Phillip","Hurns, Allen","Tate, Golden","Decker, Eric"
-"Perriman, Breshad","Hurns, Allen","Funchess, Devin","Perriman, Breshad","Fuller, Will"
-"Gordon, Josh","Gordon, Josh","Green-Beckham, Dorial","Hurns, Allen","Carroo, Leonte"
-"Crabtree, Michael","Agholor, Nelson","Smith, Torrey","Smith, Torrey","Edelman, Julian"
-"Jones, Marvin","Fuller, Will","Jones, Marvin","Jackson, DeSean","Funchess, Devin"
-"Fitzgerald, Larry","Diggs, Stefon","Snead, Willie","Thomas, Michael","Perriman, Breshad"
-"Boyd, Tyler","Jones, Marvin","Dorsett, Phillip","Crabtree, Michael","Crabtree, Michael"
-"Funchess, Devin","Carroo, Leonte","Agholor, Nelson","Jones, Marvin","Dorsett, Phillip"
-"Fuller, Will","Funchess, Devin","Carroo, Leonte","Aiken, Kamar","Jones, Marvin"
-"Bryant, Martavis","Bryant, Martavis","Gordon, Josh","Agholor, Nelson","Fitzgerald, Larry"
-"Jackson, DeSean","Crabtree, Michael","Bryant, Martavis","Fuller, Will","Agholor, Nelson"
-"Agholor, Nelson","Fitzgerald, Larry","Diggs, Stefon","Funchess, Devin","Austin, Tavon"
-"Carroo, Leonte","Jackson, DeSean","Benjamin, Travis","Diggs, Stefon","Jackson, Desean"
-"Snead, Willie","Boyd, Tyler","Austin, Tavon","Carroo, Leonte","Snead, Willie"
-"Dorsett, Phillip","Coates, Sammie","Jackson, DeSean","Benjamin, Travis","Gordon, Josh"
-"Austin, Tavon","Smith, Torrey","Mitchell, Malcolm","Austin, Tavon","Cooper, Pharoh"
-"Benjamin, Travis","Wright, Kendall","Coates, Sammie","Wheaton, Markus","Strong, Jaelen"
-"Wright, Kendall","Austin, Tavon","Janis, Jeff","Wright, Kendall","Bryant, Martavis"
-"Smith, Torrey","Benjamin, Travis","Fuller, Will","Dorsett, Phillip","Benjamin, Travis"
-"Aiken, Kamar","Snead, Willie","Strong, Jaelen","Mitchell, Malcolm","Conley, Chris"
-"Adams, Davante","Strong, Jaelen","Perriman, Breshad","Janis, Jeff",
-"Wheaton, Markus","Smelter, DeAndre","Aiken, Kamar","Smith, Devin",
-"Conley, Chris","Adams, Davante","Latimer, Cody","Gordon, Josh",
-"Matthews, Rishard","Mitchell, Malcolm","Patterson, Cordarrelle","Coates, Sammie",
-"Cooper, Pharoh","Janis, Jeff","Wheaton, Markus",,
-"Mitchell, Malcolm","Latimer, Cody","Wright, Kendall",,
-"Miller, Braxton","Garcon, Pierre","Williams, Terrance",,
-"Garcon, Pierre","Conley, Chris","Woods, Robert",,
-"Strong, Jaelen","Wheaton, Markus","Crowder, Jamison",,
-"Coates, Sammie","Smith, Devin","Garcon, Pierre",,
-"Janis, Jeff","Miller, Braxton","Jackson, Vincent",,
-"Bell, Kenny","Crowder, Jamison","Smith, Steve",,
-"Randle, Rueben","Sanu, Mohamed","Thomas, Mike",,
-"Sanu, Mohamed","Cooper, Pharoh","Stills, Kenny",,
-"Montgomery, Ty","Jackson, Vincent","Adams, Davante",,
-"Stills, Kenny","Wallace, Mike","Johnson, Charles",,
-"Jackson, Vincent","Woods, Robert","Randle, Rueben",,
-"Smith, Devin","Randle, Rueben","Pryor, Terrelle",,
-"Crowder, Jamison","Williams, Terrance","Peake, Charone",,
-"Smelter, DeAndre","Stills, Kenny","Garrett, Keyarris",,
-"Johnson, Steve","Thomas, Mike","Higgins, Rashard",,
-"Wallace, Mike","Montgomery, Ty","Nelson, J.J.",,
-"Sharpe, Tajae","Patterson, Cordarrelle","Ellington, Bruce",,
-"Latimer, Cody","Matthews, Rishard","Montgomery, Ty",,
-"Higgins, Rashard","Aiken, Kamar","Conley, Chris",,
-"Thomas, Mike","Smith, Steve","Boyd, Tyler",,
-"Moore, Chris","Bell, Kenny","Robinson, Demarcus",,
-"Hardy, Justin","Nelson, J.J.","Miller, Braxton",,
-"Woods, Robert","LaFell, Brandon","Hardy, Justin",,
-"Lee, Marqise","Sharpe, Tajae","Hogan, Chris",,
-"Amendola, Danny","Hogan, Chris",,,
-"Williams, Terrance","Peake, Charone",,,
-"Louis, Ricardo","Higgins, Rashard",,,
-"LaFell, Brandon","Roberts, Seth",,,
-"Roberts, Seth","Moore, Chris",,,
-"Coleman, Brandon","Johnson, Charles",,,
-"Cruz, Victor",,,,
-"Johnson, Calvin","Boehringer, Moritz",,,
-"Peake, Charone","Huff, Josh",,,
-"Quick, Brian","Lee, Marqise",,,
-,"Hardy, Justin",,,
-,"Britt, Kenny",,,
-,"Kearse, Jermaine",,,
-,"Cruz, Victor",,,
-,"Boldin, Anquan",,,
-,"Pryor, Terrelle",,,
-,"Payton, Jordan",,,
-,"Garrett, Keyarris",,,
-,"Robinson, Demarcus",,,
-,"Listenbee, Kolby",,,
-,"McBride, Tre",,,
-,"Core, Cody",,,
-,"Williams, Tyrell",,,
-,"Ellington, Bruce",,,
-,"Johnson, Steve",,,
-,"Louis, Ricardo",,,
-,"Rogers, Eric",,,
-,"Quick, Brian",,,
-,"Hunter, Justin",,,
-,"Amendola, Danny",,,
-,"Coleman, Brandon",,,
-,"Lewis, Roger",,,
-,"Wilson, Marquess",,,
+DLF 7/8,FBG - 7/8,Bloom - 7/8,Harmon Tiers,McDowell,ffcouchcoach,Number Fire (7/14) -Redraft
+"Beckham, Odell","Beckham, Odell","Beckham, Odell","Beckham, Odell","Beckham, Odell","Beckham, Odell","Brown, Antonio"
+"Brown, Antonio","Hopkins, DeAndre","Brown, Antonio","Brown, Antonio","Hopkins, DeAndre","Hopkins, DeAndre","Beckham, Odell"
+"Jones, Julio","Brown, Antonio","Jones, Julio","Jones, Julio","Robinson, Allen","Brown, Antonio","Jones, Julio"
+"Hopkins, DeAndre","Evans, Mike","Hopkins, DeAndre","Robinson, Allen","Watkins, Sammy","Jones, Julio","Hopkins, DeAndre"
+"Robinson, Allen","Robinson, Allen","Green, A.J.","Hopkins, DeAndre","Cooper, Amari","Robinson, Allen","Nelson, Jordy"
+"Cooper, Amari","Jones, Julio","Evans, Mike","Green, A.J.","Jones, Julio","Cooper, Amari","Green, A.J."
+"Watkins, Sammy","Cooper, Amari","Allen, Keenan","Evans, Mike","Brown, Antonio","Evans, Mike","Robinson, Allen"
+"Bryant, Dez","Green, A.J.","Cooper, Amari","Allen, Keenan","Evans, Mike","Watkins, Sammy","Bryant, Dez"
+"Jeffery, Alshon","Bryant, Dez","Robinson, Allen","Watkins, Sammy","Bryant, Dez","Green, A.J.","Jeffery, Alshon"
+"Evans, Mike","Watkins, Sammy","Watkins, Sammy","Cooper, Amari","Allen, Keenan","Bryant, Dez","Marshall, Brandon"
+"Green, AJ","Allen, Keenan","Bryant, Dez","Bryant, Dez","Jeffery, Alshon","Allen, Keenan","Evans, Mike"
+"Allen, Keenan","Jeffery, Alshon","Jeffery, Alshon","Jeffery, Alshon","Green, AJ","Cooks, Brandin","Cobb, Randall"
+"Cooks, Brandin","Cooks, Brandin","Cooks, Brandin","Thomas, Demaryius","Cooks, Brandin","Jeffery, Alshon","Hilton, T.Y."
+"Thomas, Demaryius","Cobb, Randall","Hilton, T.Y.","Nelson, Jordy","Cobb, Randall","Parker, DeVante","Watkins, Sammy"
+"Cobb, Randall","White, Kevin","Thomas, Demaryius","Cobb, Randall","Treadwell, Laquon","Thomas, Demaryius","Maclin, Jeremy"
+"Landry, Jarvis","Parker, DeVante","Cobb, Randall","Brown, John","Parker, Devante","Moncrief, Donte","Cooks, Brandin"
+"Hilton, TY","Treadwell, Laquon","Moncrief, Donte","Cooks, Brandin","Thomas, Demaryius","Treadwell, Laquon","Baldwin, Doug"
+"Parker, Devante","Coleman, Corey","Treadwell, Laquon","Landry, Jarvis","Moncrief, Donte","Matthews, Jordan","Thomas, Demaryius"
+"Treadwell, Laquon","Thomas, Demaryius","White, Kevin","Hilton, T.Y.","Landry, Jarvis","White, Kevin","Cooper, Amari"
+"Matthews, Jordan","Hilton, T.Y.","Floyd, Michael","Treadwell, Laquon","Matthews, Jordan","Green-Beckham, Dorial","Allen, Keenan"
+"Green-Beckham, Dorial","Moncrief, Donte","Brown, John","Moncrief, Donte","Coleman, Corey","Hilton, T.Y.","Tate, Golden"
+"White, Kevin","Doctson, Josh","Coleman, Corey","Coleman, Corey","Benjamin, Kelvin","Landry, Jarvis","Jackson, DeSean"
+"Benjamin, Kelvin","Benjamin, Kelvin","Doctson, Josh","White, Kevin","Lockett, Tyler","Coleman, Corey","Decker, Eric"
+"Doctson, Josh","Floyd, Michael","Landry, Jarvis","Floyd, Michael","Hilton, TY","Doctson, Josh","Edelman, Julian"
+"Floyd, Michael","Nelson, Jordy","Lockett, Tyler","Lockett, Tyler","Doctson, Josh","Cobb, Randall","Sanders, Emmanuel"
+"Maclin, Jeremy","Green-Beckham, Dorial","Benjamin, Kelvin","Benjamin, Kelvin","Floyd, Michael","Floyd, Michael","Benjamin, Kelvin"
+"Coleman, Corey","Lockett, Tyler","Parker, DeVante","Marshall, Brandon","Nelson, Jordy","Benjamin, Kelvin","Fitzgerald, Larry"
+"Moncrief, Donte","Matthews, Jordan","Nelson, Jordy","Doctson, Josh","White, Kevin","Tate, Golden","Landry, Jarvis"
+"Marshall, Brandon","Landry, Jarvis","Maclin, Jeremy","Green-Beckham, Dorial","Green-Beckham, Dorial","Lockett, Tyler","Matthews, Jordan"
+"Lockett, Tyler","Shepard, Sterling","Shepard, Sterling","Shepard, Sterling","Maclin, Jeremy","Nelson, Jordy","Hurns, Allen"
+"Nelson, Jordy","Brown, John","Baldwin, Doug","Parker, DeVante","Marshall, Brandon","Maclin, Jeremy","Parker, DeVante"
+"Decker, Eric","Marshall, Brandon","Tate, Golden","Maclin, Jeremy","Decker, Eric","Thomas, Michael","Diggs, Stefon"
+"Edelman, Julian","Perriman, Breshad","Thomas, Michael","Bryant, Martavis","Funchess, Devin","Marshall, Brandon","Smith, Steve"
+"Tate, Golden","Maclin, Jeremy","Crabtree, Michael","Decker, Eric","Hurns, Allen","Diggs, Stefon","Moncrief, Donte"
+"Sanders, Emmanuel","Tate, Golden","Decker, Eric","Baldwin, Doug","Brown, John","Shepard, Sterling","Floyd, Michael"
+"Brown, John","Decker, Eric","Edelman, Julian","Matthews, Jordan","Tate, Golden","Boyd, Tyler","Jones, Marvin"
+"Hurns, Allen","Edelman, Julian","Marshall, Brandon","Sanders, Emmanuel","Edelman, Julian","Hurns, Allen","Smith, Torrey"
+"Shepard, Sterling","Baldwin, Doug","Fitzgerald, Larry","Fitzgerald, Larry","Shepard, Sterling","Sanders, Emmanuel","Jackson, Vincent"
+"Baldwin, Doug","Sanders, Emmanuel","Sanders, Emmanuel","Edelman, Julian","Thomas, Michael","Brown, John","Snead, Willie"
+"Thomas, Michael","Thomas, Michael","Matthews, Jordan","Snead, Willie","Perriman, Breshad","Baldwin, Doug","Brown, John"
+"Diggs, Stefon","Dorsett, Phillip","Hurns, Allen","Tate, Golden","Crabtree, Michael","Decker, Eric","Crabtree, Michael"
+"Perriman, Breshad","Hurns, Allen","Funchess, Devin","Perriman, Breshad","Sanders, Emmanuel","Fuller, Will","Coleman, Corey"
+"Gordon, Josh","Gordon, Josh","Green-Beckham, Dorial","Hurns, Allen","Boyd, Tyler","Carroo, Leonte","Williams, Terrance"
+"Crabtree, Michael","Agholor, Nelson","Smith, Torrey","Smith, Torrey","Diggs, Stefon","Edelman, Julian","Garcon, Pierre"
+"Jones, Marvin","Fuller, Will","Jones, Marvin","Jackson, DeSean","Bryant, Martavis","Funchess, Devin","Benjamin, Travis"
+"Fitzgerald, Larry","Diggs, Stefon","Snead, Willie","Thomas, Michael","Gordon, Josh","Perriman, Breshad","Green-Beckham, Dorial"
+"Boyd, Tyler","Jones, Marvin","Dorsett, Phillip","Crabtree, Michael","Fuller, Will","Crabtree, Michael","Wright, Kendall"
+"Funchess, Devin","Carroo, Leonte","Agholor, Nelson","Jones, Marvin","Fitzgerald, Larry","Dorsett, Phillip","Lockett, Tyler"
+"Fuller, Will","Funchess, Devin","Carroo, Leonte","Aiken, Kamar","Baldwin, Doug","Jones, Marvin","White, Kevin"
+"Bryant, Martavis","Bryant, Martavis","Gordon, Josh","Agholor, Nelson","Agholor, Nelson","Fitzgerald, Larry","Treadwell, Laquon"
+"Jackson, DeSean","Crabtree, Michael","Bryant, Martavis","Fuller, Will","Jackson, DeSean","Agholor, Nelson","Austin, Tavon"
+"Agholor, Nelson","Fitzgerald, Larry","Diggs, Stefon","Funchess, Devin","Jones, Marvin","Austin, Tavon","Ginn Jr., Ted"
+"Carroo, Leonte","Jackson, DeSean","Benjamin, Travis","Diggs, Stefon","Carroo, Leonte","Jackson, Desean","Kearse, Jermaine"
+"Snead, Willie","Boyd, Tyler","Austin, Tavon","Carroo, Leonte","Adams, Davante","Snead, Willie","Wheaton, Markus"
+"Dorsett, Phillip","Coates, Sammie","Jackson, DeSean","Benjamin, Travis","Dorsett, Phillip","Gordon, Josh","Perriman, Breshad"
+"Austin, Tavon","Smith, Torrey","Mitchell, Malcolm","Austin, Tavon","Coates, Sammie","Cooper, Pharoh","Sanu, Mohamed"
+"Benjamin, Travis","Wright, Kendall","Coates, Sammie","Wheaton, Markus","Wright, Kendall","Strong, Jaelen","Brown, Philly"
+"Wright, Kendall","Austin, Tavon","Janis, Jeff","Wright, Kendall","Austin, Tavon","Bryant, Martavis","Cruz, Victor"
+"Smith, Torrey","Benjamin, Travis","Fuller, Will","Dorsett, Phillip","Snead, Willie","Benjamin, Travis","Agholor, Nelson"
+"Aiken, Kamar","Snead, Willie","Strong, Jaelen","Mitchell, Malcolm","Cooper, Pharoh","Conley, Chris","LaFell, Brandon"
+"Adams, Davante","Strong, Jaelen","Perriman, Breshad","Janis, Jeff","Conley, Chris",,"Shepard, Sterling"
+"Wheaton, Markus","Smelter, DeAndre","Aiken, Kamar","Smith, Devin","Bell, Kenny",,"Britt, Kenny"
+"Conley, Chris","Adams, Davante","Latimer, Cody","Gordon, Josh","Crowder, Jamison",,"Fuller, Will"
+"Matthews, Rishard","Mitchell, Malcolm","Patterson, Cordarrelle","Coates, Sammie","Mitchell, Malcolm",,"Funchess, Devin"
+"Cooper, Pharoh","Janis, Jeff","Wheaton, Markus",,"Benjamin, Travis",,"Randle, Rueben"
+"Mitchell, Malcolm","Latimer, Cody","Wright, Kendall",,"Matthews, Rishard",,"Wallace, Mike"
+"Miller, Braxton","Garcon, Pierre","Williams, Terrance",,"Strong, Jaelen",,"Crowder, Jamison"
+"Garcon, Pierre","Conley, Chris","Woods, Robert",,"Louis, Ricardo",,"Shorts, Cecil"
+"Strong, Jaelen","Wheaton, Markus","Crowder, Jamison",,"Stills, Kenny",,"Matthews, Rishard"
+"Coates, Sammie","Smith, Devin","Garcon, Pierre",,"Smelter, DeAndre",,"Amendola, Danny"
+"Janis, Jeff","Miller, Braxton","Jackson, Vincent",,"Smith, Torrey",,"Johnson, Steve"
+"Bell, Kenny","Crowder, Jamison","Smith, Steve",,"Aiken, Kamar",,"Woods, Robert"
+"Randle, Rueben","Sanu, Mohamed","Thomas, Mike",,"Janis, Jeff",,"Doctson, Josh"
+"Sanu, Mohamed","Cooper, Pharoh","Stills, Kenny",,"Montgomery, Ty",,"Wilson, Albert"
+"Montgomery, Ty","Jackson, Vincent","Adams, Davante",,"Wheaton, Markus",,"Stills, Kenny"
+"Stills, Kenny","Wallace, Mike","Johnson, Charles",,"Smith, Devin",,"Boyd, Tyler"
+"Jackson, Vincent","Woods, Robert","Randle, Rueben",,"Randle, Rueben",,"Inman, Dontrelle"
+"Smith, Devin","Randle, Rueben","Pryor, Terrelle",,"Cruz, Victor",,"Royal, Eddie"
+"Crowder, Jamison","Williams, Terrance","Peake, Charone",,"Wallace, Mike",,"Aiken, Kamar"
+"Smelter, DeAndre","Stills, Kenny","Garrett, Keyarris",,"Johnson, Steve",,"Washington, Nate"
+"Johnson, Steve","Thomas, Mike","Higgins, Rashard",,"Roberts, Seth",,"Wilson, Marquess"
+"Wallace, Mike","Montgomery, Ty","Nelson, J.J.",,"Sanu, Mohamed",,"Hunter, Justin"
+"Sharpe, Tajae","Patterson, Cordarrelle","Ellington, Bruce",,"Lee, Marqise",,"Douglas, Harry"
+"Latimer, Cody","Matthews, Rishard","Montgomery, Ty",,"Johnson, Calvin",,"Cooper, Pharoh"
+"Higgins, Rashard","Aiken, Kamar","Conley, Chris",,"Garcon, Pierre",,"Harris, Dwayne"
+"Thomas, Mike","Smith, Steve","Boyd, Tyler",,"Latimer, Cody",,"Murphy, Louis"
+"Moore, Chris","Bell, Kenny","Robinson, Demarcus",,"Jackson, Vincent",,"Bell, Kenny"
+"Hardy, Justin","Nelson, J.J.","Miller, Braxton",,"Hardy, Justin",,"Hogan, Chris"
+"Woods, Robert","LaFell, Brandon","Hardy, Justin",,"Coleman, Brandon",,"Carroo, Leonte"
+"Lee, Marqise","Sharpe, Tajae","Hogan, Chris",,"LaFell, Brandon",,"Hawkins, Andrew"
+"Amendola, Danny","Hogan, Chris",,,"Quick, Brian",,"Richardson, Paul"
+"Williams, Terrance","Peake, Charone",,,,,"Wright, Jarius"
+"Louis, Ricardo","Higgins, Rashard",,,,,"Coleman, Brandon"
+"LaFell, Brandon","Roberts, Seth",,,,,"Beasley, Cole"
+"Roberts, Seth","Moore, Chris",,,,,"Johnson, Charles"
+"Coleman, Brandon","Johnson, Charles",,,,,"Thomas, Michael"
+"Cruz, Victor",,,,,,"Butler, Brice"
+"Johnson, Calvin","Boehringer, Moritz",,,,,"Nelson, J.J."
+"Peake, Charone","Huff, Josh",,,,,"Strong, Jaelen"
+"Quick, Brian","Lee, Marqise",,,,,"Adams, Davante"
+,"Hardy, Justin",,,,,"Huff, Josh"
+,"Britt, Kenny",,,,,"Heyward-Bey, Darrius"
+,"Kearse, Jermaine",,,,,"Holmes, Andre"
+,"Cruz, Victor",,,,,"Gabriel, Taylor"
+,"Boldin, Anquan",,,,,"Jones, T.J."
+,"Pryor, Terrelle",,,,,"Lee, Marqise"
+,"Payton, Jordan",,,,,"Fowler, Bennie"
+,"Garrett, Keyarris",,,,,"Norwood, Jordan"
+,"Robinson, Demarcus",,,,,"Thomas, De'Anthony"
+,"Listenbee, Kolby",,,,,"Conley, Chris"
+,"McBride, Tre",,,,,"Ellington, Bruce"
+,"Core, Cody",,,,,"Patton, Quinton"
+,"Williams, Tyrell",,,,,"Hardy, Justin"
+,"Ellington, Bruce",,,,,"Dorsett, Phillip"
+,"Johnson, Steve",,,,,"Grant, Ryan"
+,"Louis, Ricardo",,,,,"Greene, Rashad"
+,"Rogers, Eric",,,,,"Quick, Brian"
+,"Quick, Brian",,,,,"Smith, Devin"
+,"Hunter, Justin",,,,,"Coates, Sammie"
+,"Amendola, Danny",,,,,"Thompson, Deonte"
+,"Coleman, Brandon",,,,,"Tate, Brandon"
+,"Lewis, Roger",,,,,"Mariani, Marc"
+,"Wilson, Marquess",,,,,"Ross, Rashad"
+,,,,,,"Smith, Kevin"
+,,,,,,"White, DeAndrew"
+,,,,,,"Montgomery, Ty"
+,,,,,,"Weems, Eric"
+,,,,,,"Mitchell, Malcolm"
+,,,,,,"Powell, Walt"
+,,,,,,"Salas, Greg"
+,,,,,,"Alford, Mario"
+,,,,,,"Posey, DeVier"
+,,,,,,"Bray, Quan"
+,,,,,,"Hester, Devin"
+,,,,,,"Brown, Jaron"
+,,,,,,"Roberts, Seth"
+,,,,,,"Williams, Tyrell"
+,,,,,,"Ross, Jeremy"
+,,,,,,"Clay, Kaelin"
+,,,,,,"Goodwin, Marquise"
+,,,,,,"Payton, Jordan"
+,,,,,,"Kerley, Jeremy"
+,,,,,,"Miller, Braxton"
+,,,,,,"Butler, Jeremy"
+,,,,,,"Enunwa, Quincy"
+,,,,,,"Fuller, Corey"
+,,,,,,"Thomas, Mike"
+,,,,,,"Campanaro, Mike"
+,,,,,,"Humphries, Adam"
+,,,,,,"Williams, Nick"
+,,,,,,"Robinson, Aldrick"
+,,,,,,"Latimer, Cody"
+,,,,,,"Hammond, Frankie"
+,,,,,,"Pryor, Terrelle"
+,,,,,,"Martin, Keshawn"
+,,,,,,"Boykin, Jarrett"
+,,,,,,"Abbrederis, Jared"
+,,,,,,"Marquez, Bradley"
+,,,,,,"White, Myles"
+,,,,,,"Graham, T.J."
+,,,,,,"Herndon, Javontee"
+,,,,,,"Whitehead, Lucky"
+,,,,,,"Shepard, Russell"
+,,,,,,"Hazel, Matt"
+,,,,,,"Janis, Jeff"
+,,,,,,"Dye, Donteea"
+,,,,,,"Whalen, Griff"
+,,,,,,"Street, Devin"
+,,,,,,"Simpson, Jerome"
+,,,,,,"Bellamy, Josh"
+,,,,,,"Thielen, Adam"
+,,,,,,"Givens, Chris"
+,,,,,,"Mumphery, Keith"
+,,,,,,"Thompkins, Kenbrell"
+,,,,,,"Norwood, Kevin"
+,,,,,,"Streater, Rod"
+,,,,,,"Patterson, Cordarrelle"
+,,,,,,"Caldwell, Andre"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,
+,,,,", ",,

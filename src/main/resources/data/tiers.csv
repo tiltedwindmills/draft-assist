@@ -22,44 +22,43 @@
 "Coleman, Corey",,"Winston, Jameis",
 "Lockett, Tyler",,"Mariota, Marcus",
 "Doctson, Josh",,,
-"Brown, John",,,
 ,,,
 "Thomas, Demaryius",,"Roethlisberger, Ben",
 "Parker, Devante",,,
 "Benjamin, Kelvin",,,
 "Landry, Jarvis",,,
 "Floyd, Michael",,,
+"Brown, John",,,
 ,,,
 "Green-Beckham, Dorial","Johnson, David","Bortles, Blake","Reed, Jordan"
 "Shepard, Sterling","Miller, Lamar","Brees, Drew","Eifert, Tyler"
-"Bryant, Martavis","Bernard, Giovani","Carr, Derek",
-,,"Stafford, Matthew",
+"Bryant, Martavis",,"Carr, Derek",
 ,,,
-"Nelson, Jordy",,,
-"Matthews, Jordan",,,
-"Thomas, Michael",,,
+"Nelson, Jordy","Lacy, Eddie","Stafford, Matthew",
+"Matthews, Jordan","Freeman, Devonta","Ryan, Matt",
+"Thomas, Michael","Ingram, Mark",,
+"Perriman, Breshad",,,
+"Funchess, Devin",,,
 ,,,
-"Tate, Golden","Lacy, Eddie","Rivers, Philip","Kelce, Travis"
-"Maclin, Jeremy","Freeman, Devonta","Tannehill, Ryan","Green, Ladarius"
-"Decker, Eric","Ingram, Mark","Ryan, Matt",
-"Baldwin, Doug","Lewis, Dion","Goff, Jared",
-"Jackson, DeSean",,"Manning, Eli",
-"Hurns, Allen",,"Wentz, Carson",
-,,"Lynch, Paxton",
+"Tate, Golden","Rawls, Thomas","Rivers, Philip","Kelce, Travis"
+"Maclin, Jeremy","Martin, Doug","Tannehill, Ryan","Green, Ladarius"
+"Decker, Eric","Hyde, Carlos","Manning, Eli",
+"Baldwin, Doug","Ajayi, Jay","Wentz, Carson",
+"Jackson, DeSean","Lewis, Dion","Lynch, Paxton",
+"Hurns, Allen","Bernard, Giovani","Goff, Jared",
 ,,,
-"Aiken, Kamar","Rawls, Thomas","Brady, Tom","Allen, Dwayne"
-"Diggs, Stefon","Martin, Doug","Dalton, Andy","Thomas, Julius"
-"Funchess, Devin","Hyde, Carlos","Bridgewater, Teddy","Ebron, Eric"
-"Fuller, Will",,,"Fleener, Coby"
-"Snead, Willie",,,
+"Aiken, Kamar","Yeldon, T.J.","Brady, Tom","Allen, Dwayne"
+"Diggs, Stefon","Henry, Derrick","Dalton, Andy","Thomas, Julius"
+"Fuller, Will","Anderson, C.J.","Bridgewater, Teddy","Ebron, Eric"
+"Snead, Willie",,,"Fleener, Coby"
 "Dorsett, Phillip",,,
 "Smith, Torrey",,,
 "Gordon, Josh",,,
 ,,,
-"Coates, Sammie","Yeldon, T.J.","Cousins, Kirk","Olsen, Greg"
-"Crowder, Jamison","Henry, Derrick","Romo, Tony","Bennett, Martellus"
-"Jones, Marvin","Anderson, C.J.","Palmer, Carson","Ertz, Zach"
-"Perriman, Breshad",,"Cutler, Jay","Seferian-Jenkins, Austin"
+"Coates, Sammie","Johnson, Duke","Cousins, Kirk","Olsen, Greg"
+"Crowder, Jamison",,"Romo, Tony","Bennett, Martellus"
+"Jones, Marvin",,"Palmer, Carson","Ertz, Zach"
+,,"Cutler, Jay","Seferian-Jenkins, Austin"
 ,,"Flacco, Joe",
 ,,,
 "Fitzgerald, Larry","Charles, Jamaal","Taylor, Tyrod","Barnidge, Gary"
@@ -67,10 +66,10 @@
 "Marshall, Brandon","McCoy, LeSean","Osweiler, Brock",
 "Edelman, Julian","Hill, Jeremy",,
 ,,,
-"Carroo, Leonte","Johnson, Duke",,"Walker, Delanie"
-"Agholor, Nelson","Ajayi, Jay",,"Gates, Antonio"
-,"Abdullah, Ameer",,"Henry, Hunter"
-,"Prosise, C.J.",,"Hooper, Austin"
+"Carroo, Leonte","Abdullah, Ameer",,"Walker, Delanie"
+"Agholor, Nelson","Prosise, C.J.",,"Gates, Antonio"
+,,,"Henry, Hunter"
+,,,"Hooper, Austin"
 ,,,
 "Crabtree, Michael","Gordon, Melvin",,
 "Austin, Tavon","Jones, Matt",,
@@ -144,3 +143,5 @@
 ,"Wilds, Brandon",,
 ,"Thompson, Juwan",,
 ,"Andrews, Antonio",,
+,,,
+,x,,
