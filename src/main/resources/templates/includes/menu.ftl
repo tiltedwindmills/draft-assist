@@ -8,7 +8,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="http://football65.myfantasyleague.com/2016/options?L=75853&O=17" target="_blank">Relegation 1 Draft</a>
+					<a class="navbar-brand" href="http://www65.myfantasyleague.com/2016/options?L=75853&O=17" target="_blank">Draft Link</a>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
