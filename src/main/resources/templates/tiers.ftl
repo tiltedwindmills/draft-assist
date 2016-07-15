@@ -22,7 +22,7 @@
 								<#else>
 									<#assign class="">
 								</#if>
-								<li class="list-group-item ${class!""}">${draftedPlayer.player.name}  ( ${draftedPlayer.player.age} )}</li>
+								<li class="list-group-item ${class!""}">${draftedPlayer.player.name}  ( ${draftedPlayer.player.age} )</li>
 							</#if>
 						</#list>
 					</ul>
