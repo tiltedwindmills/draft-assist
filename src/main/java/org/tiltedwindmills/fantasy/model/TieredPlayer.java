@@ -6,6 +6,8 @@ import org.tiltedwindmills.fantasy.mfl.model.Player;
 
 public class TieredPlayer extends AbstractObject {
 
+	private static final long serialVersionUID = -8008780579921035296L;
+
 	private Player player;
 
 	private int tierNumber;

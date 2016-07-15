@@ -130,7 +130,7 @@ public class FreeAgentController {
 	@RequestMapping("/adp")
 	public String adp(final Map<String, Object> model) {
 
-		final List<Integer> doNotDraftOverall = new ArrayList<Integer>();
+		final List<Integer> doNotDraftOverall = new ArrayList<>();
 		doNotDraftOverall.addAll(doNotDraftRBs);
 		doNotDraftOverall.addAll(doNotDraftWRs);
 		doNotDraftOverall.addAll(doNotDraftTEs);
@@ -144,7 +144,7 @@ public class FreeAgentController {
 	@RequestMapping("/overall")
 	public String overall(final Map<String, Object> model) {
 
-		final List<Integer> doNotDraftOverall = new ArrayList<Integer>();
+		final List<Integer> doNotDraftOverall = new ArrayList<>();
 		doNotDraftOverall.addAll(doNotDraftRBs);
 		doNotDraftOverall.addAll(doNotDraftWRs);
 		doNotDraftOverall.addAll(doNotDraftTEs);
@@ -205,7 +205,7 @@ public class FreeAgentController {
 		rankingsProcessor.mergePlayers(rankings, playerToStatusMap, doNotDraftList);
 
 		int recordCount = 0;
-		final List<Integer> firstDraftedIndices = new ArrayList<Integer>();
+		final List<Integer> firstDraftedIndices = new ArrayList<>();
 
 		for (RankingList ranking : rankings) {
 			if (ranking != null && ranking.getRankedPlayers() != null) {

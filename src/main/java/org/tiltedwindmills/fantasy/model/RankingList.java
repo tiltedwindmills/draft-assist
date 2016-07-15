@@ -8,6 +8,8 @@ import org.tiltedwindmills.fantasy.mfl.model.Player;
 
 public class RankingList extends AbstractObject {
 
+	private static final long serialVersionUID = -738510876671711292L;
+
 	private String name;
 
 	private List<DraftedPlayer> rankedPlayers;

@@ -60,7 +60,7 @@ public class ProjectionsProcessor extends PlayerProcessor {
 	public List<Projection> getProjections(final String fileName) {
 
 		LOG.info("Processing '{}' projections", fileName);
-		final List<Projection> projections = new ArrayList<Projection>();
+		final List<Projection> projections = new ArrayList<>();
 
 		try {
 			final org.springframework.core.io.Resource resource = new ClassPathResource("data/" + fileName + ".csv");

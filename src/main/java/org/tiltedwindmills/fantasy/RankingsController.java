@@ -314,7 +314,7 @@ public class RankingsController extends AbstractController {
 		rankingsProcessor.mergeDraft(rankings, picks, doNotDraftList);
 
 		int recordCount = 0;
-		final List<Integer> firstDraftedIndices = new ArrayList<Integer>();
+		final List<Integer> firstDraftedIndices = new ArrayList<>();
 
 		for (RankingList ranking : rankings) {
 			if (ranking != null && ranking.getRankedPlayers() != null) {

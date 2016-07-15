@@ -10,6 +10,8 @@ import org.tiltedwindmills.fantasy.mfl.model.draft.DraftPick;
 
 public class DraftedPlayer extends AbstractObject {
 
+	private static final long serialVersionUID = -2382487464376917025L;
+
 	private Player player;
 
 	private int timesDrafted;
