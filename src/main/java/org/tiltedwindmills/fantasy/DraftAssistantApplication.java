@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FantasyRankingsAggregatorApplication {
+public class DraftAssistantApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FantasyRankingsAggregatorApplication.class, args);
+        SpringApplication.run(DraftAssistantApplication.class, args);
     }
 }
