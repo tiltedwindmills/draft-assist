@@ -41,7 +41,7 @@ public class TiersController extends AbstractController {
 	@RequestMapping("/")
 	public String tiers(final Map<String, Object> model) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 		tierProcessor.mergeDraft(tiers, picks);
 
 		LOG.debug("Found {} tiers", tiers.size());

@@ -18,7 +18,6 @@ import org.joda.time.Duration;
 import org.joda.time.Instant;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.tiltedwindmills.fantasy.mfl.model.Player;
@@ -86,8 +85,6 @@ public class RankingsController extends AbstractController {
 	private List<RankingList> fantasypros;
 
 
-	@Value("${myfranchise}")
-	private String myFranchise;
 
 	@PostConstruct
 	private void postConstruct() {
@@ -112,7 +109,7 @@ public class RankingsController extends AbstractController {
 	@RequestMapping("/draft")
 	public String draft(final Map<String, Object> model) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 
 		final Map<String, Integer> positionMap = getPositionDistributionMap(picks);
 
@@ -175,6 +172,8 @@ public class RankingsController extends AbstractController {
 
 		model.put("tieredPlayers", tieredPlayers);
 		model.put("picks", picks);
+		model.put("teams", teams);
+		model.put("draftRounds", draftRounds);
 		model.put("myfranchise", myFranchise);
 		return "draft";
 	}
@@ -290,7 +289,7 @@ public class RankingsController extends AbstractController {
 								final List<Integer> doNotDraftList,
 								final Position... positions) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 
 		// if we have a set of positions to count...
 		if (positions != null && positions.length != 0) {

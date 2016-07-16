@@ -17,13 +17,29 @@ import org.tiltedwindmills.fantasy.mfl.model.Player;
 @Component
 public class AbstractController {
 
-	protected static final int LEAGUE_ID = 75853;
-
 	@Inject
 	protected PicksCacheManager picksCache;
 
 	@Resource
 	protected List<Player> players;
+
+	@Value("${leagueId}")
+	protected int leagueId;
+
+	@Value("${serverId}")
+	protected String serverId;
+
+	@Value("${year}")
+	protected int year;
+
+	@Value("${myfranchise}")
+	protected String myFranchise;
+
+	@Value("${draftRounds}")
+	protected String draftRounds;
+
+	@Value("${teams}")
+	protected String teams;
 
 
 	@Value("#{'${donotdraft.qb}'.split(',')}")
@@ -40,6 +56,7 @@ public class AbstractController {
 
 	@Value("#{'${donotdraft.lb}'.split(',')}")
 	protected List<Integer> doNotDraftLBs;
+
 
 	@PostConstruct
 	private void postConstruct() {

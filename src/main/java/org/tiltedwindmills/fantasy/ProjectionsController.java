@@ -88,7 +88,7 @@ public class ProjectionsController extends AbstractController {
 			final List<Position> positions,
 			final boolean hideDrafted) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 		projectionsProcessor.mergeDraft(projections, picks, doNotDraftList);
 
 		List<Projection> filteredResults = Lists.newArrayList(projections);

@@ -72,9 +72,9 @@ public class StatsController extends AbstractController {
 	@RequestMapping("/predraft")
 	public String predraft(final Map<String, Object> model) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "16", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 
-		League league = leagueService.getLeague(LEAGUE_ID, "16");
+		League league = leagueService.getLeague(leagueId, serverId);
 
 		Map<String, PickStats> franchiseNameToStatsMap = new HashMap<>();
 		for (Franchise franchise : league.getFranchiseList().getFranchises()) {
@@ -158,7 +158,7 @@ public class StatsController extends AbstractController {
 	@RequestMapping("/diff")
 	public String diff(final Map<String, Object> model) {
 
-		final List<DraftPick> picks = picksCache.getDraftPicks(LEAGUE_ID, "65", 2016);
+		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
 
 		List<DraftedPlayer> playersDrafted = new ArrayList<>();
 
