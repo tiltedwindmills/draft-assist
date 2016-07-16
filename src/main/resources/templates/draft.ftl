@@ -32,7 +32,7 @@
 
 						<tr class="${myPickClass!""}">
 							<td>${pick.round}.${pick.pick}</td>
-							<td>${pick.round?number * 12 + pick.pick?number}</td>
+							<td>${(pick.round?number -1) * 12 + pick.pick?number}</td>
 							<td>${picksAway}</td>
 
 							<#if tieredPlayers?? &&
@@ -72,8 +72,9 @@
 			<p>Estimated Completion: ${estimatedEnd?date} - ${estimatedEnd?time}<p>
 
 			<div class="progress">
-				<div class="progress-bar" role="progressbar" aria-valuenow="${picks?size}" aria-valuemin="1" aria-valuemax="1080" style="min-width: 2em; width: ${draftedPlayerCount / 1080 * 100}%;">
-					${draftedPlayerCount / 1080 * 100}%
+				<#assign totalPicks="${draftRounds?number * teams?number}">
+				<div class="progress-bar" role="progressbar" aria-valuenow="${picks?size}" aria-valuemin="1" aria-valuemax="${totalPicks}" style="min-width: 2em; width: ${draftedPlayerCount / totalPicks?number * 100}%;">
+					${draftedPlayerCount / totalPicks?number * 100}%
 				</div>
 			</div>
 
