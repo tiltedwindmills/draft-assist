@@ -88,19 +88,19 @@ public class FreeAgentController {
 	private List<Player> players;
 
 	@Value("#{'${donotdraft.qb}'.split(',')}")
-	private List<Integer> doNotDraftQBs;
+	private List<String> doNotDraftQBs;
 
 	@Value("#{'${donotdraft.wr}'.split(',')}")
-	private List<Integer> doNotDraftWRs;
+	private List<String> doNotDraftWRs;
 
 	@Value("#{'${donotdraft.rb}'.split(',')}")
-	private List<Integer> doNotDraftRBs;
+	private List<String> doNotDraftRBs;
 
 	@Value("#{'${donotdraft.te}'.split(',')}")
-	private List<Integer> doNotDraftTEs;
+	private List<String> doNotDraftTEs;
 
 	@Value("#{'${donotdraft.lb}'.split(',')}")
-	private List<Integer> doNotDraftLBs;
+	private List<String> doNotDraftLBs;
 
 
 	@Value("${myfranchise}")
@@ -130,7 +130,7 @@ public class FreeAgentController {
 	@RequestMapping("/adp")
 	public String adp(final Map<String, Object> model) {
 
-		final List<Integer> doNotDraftOverall = new ArrayList<>();
+		final List<String> doNotDraftOverall = new ArrayList<>();
 		doNotDraftOverall.addAll(doNotDraftRBs);
 		doNotDraftOverall.addAll(doNotDraftWRs);
 		doNotDraftOverall.addAll(doNotDraftTEs);
@@ -144,7 +144,7 @@ public class FreeAgentController {
 	@RequestMapping("/overall")
 	public String overall(final Map<String, Object> model) {
 
-		final List<Integer> doNotDraftOverall = new ArrayList<>();
+		final List<String> doNotDraftOverall = new ArrayList<>();
 		doNotDraftOverall.addAll(doNotDraftRBs);
 		doNotDraftOverall.addAll(doNotDraftWRs);
 		doNotDraftOverall.addAll(doNotDraftTEs);
@@ -191,7 +191,7 @@ public class FreeAgentController {
 
 	private String loadRankings(final Map<String, Object> model,
 								final List<RankingList> rankings,
-								final List<Integer> doNotDraftList) {
+								final List<String> doNotDraftList) {
 
 		// NPEs all over.
 		Set<Integer> playerIds = new LinkedHashSet<>();

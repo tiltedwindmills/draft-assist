@@ -30,7 +30,7 @@ public class RankingsProcessor extends PlayerProcessor {
 
 
 	public void mergeDraft(final List<RankingList> rankings, final List<DraftPick> picks,
-			final List<Integer> doNotDraftList) {
+			final List<String> doNotDraftList) {
 
 		// iterate the rankings lists
 		for (RankingList ranking : rankings) {
@@ -57,6 +57,8 @@ public class RankingsProcessor extends PlayerProcessor {
 						}
 
 						if (doNotDraftList != null && doNotDraftList.contains(draftedPlayer.getPlayer().getId())) {
+
+							LOG.debug("Setting {} to do not draft", draftedPlayer.getPlayer());
 							draftedPlayer.setDoNotDraft(true);
 							continue;
 						}
@@ -144,7 +146,7 @@ public class RankingsProcessor extends PlayerProcessor {
 	}
 
 
-	public void mergePlayers(List<RankingList> rankings, Map<Integer, String> playerToStatusMap, List<Integer> doNotDraftList) {
+	public void mergePlayers(List<RankingList> rankings, Map<Integer, String> playerToStatusMap, List<String> doNotDraftList) {
 
 		// iterate the rankings lists
 		for (RankingList ranking : rankings) {

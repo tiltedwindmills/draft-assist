@@ -47,19 +47,19 @@ public class AbstractController {
 
 
 	@Value("#{'${donotdraft.qb}'.split(',')}")
-	protected List<Integer> doNotDraftQBs;
+	protected List<String> doNotDraftQBs;
 
 	@Value("#{'${donotdraft.wr}'.split(',')}")
-	protected List<Integer> doNotDraftWRs;
+	protected List<String> doNotDraftWRs;
 
 	@Value("#{'${donotdraft.rb}'.split(',')}")
-	protected List<Integer> doNotDraftRBs;
+	protected List<String> doNotDraftRBs;
 
 	@Value("#{'${donotdraft.te}'.split(',')}")
-	protected List<Integer> doNotDraftTEs;
+	protected List<String> doNotDraftTEs;
 
 	@Value("#{'${donotdraft.lb}'.split(',')}")
-	protected List<Integer> doNotDraftLBs;
+	protected List<String> doNotDraftLBs;
 
 
 	@PostConstruct
@@ -70,9 +70,9 @@ public class AbstractController {
 	}
 
 
-	protected List<Integer> getCombinedDoNotDraftList() {
+	protected List<String> getCombinedDoNotDraftList() {
 
-		final List<Integer> doNotDraftOverall = new ArrayList<>();
+		final List<String> doNotDraftOverall = new ArrayList<>();
 		doNotDraftOverall.addAll(doNotDraftRBs);
 		doNotDraftOverall.addAll(doNotDraftWRs);
 		doNotDraftOverall.addAll(doNotDraftTEs);

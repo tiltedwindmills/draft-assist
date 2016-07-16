@@ -169,14 +169,14 @@ public class RankingsController extends AbstractController {
 
 	private String loadRankings(final Map<String, Object> model,
 								final List<RankingList> rankings,
-								final List<Integer> doNotDraftList) {
+								final List<String> doNotDraftList) {
 
 		return loadRankings(model, rankings, doNotDraftList, (Position) null);
 	}
 
 	private String loadRankings(final Map<String, Object> model,
 								final List<RankingList> rankings,
-								final List<Integer> doNotDraftList,
+								final List<String> doNotDraftList,
 								final Position... positions) {
 
 		final List<DraftPick> picks = picksCache.getDraftPicks(leagueId, serverId, year);
@@ -223,6 +223,7 @@ public class RankingsController extends AbstractController {
 		model.put("startRecord", startRecord);
 		model.put("recordCount", recordCount);
 		model.put("rankings", rankings);
+
 		return "rankings"; // TODO : don't like that this returns the view name, even though fixing would be repetitive
 	}
 }
