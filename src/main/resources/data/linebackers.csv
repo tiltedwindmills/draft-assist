@@ -1,78 +1,78 @@
-FBG,DLF,ffcouchcoach
-"Kuechly, Luke","Kuechly, Luke","Kuechly, Luke"
-"David, Lavonte","David, Lavonte","David, Lavonte"
-"Bowman, Navorro","Smith, Telvin","Smith, Telvin"
-"Collins, Jamie","Wagner, Bobby","Ogletree, Alec"
-"Ogletree, Alec","Mosley, CJ","Collins, Jamie"
-"Mosley, C.J.","Ogletree, Alec","Bowman, Navorro"
-"Smith, Telvin","Bowman, NaVorro","Wagner, Bobby"
-"Wagner, Bobby","Collins, Jamie","Moseley, C.J."
-"Jack, Myles","Bucannon, Deone","Shazier, Ryan"
-"Levy, DeAndre","Levy, DeAndre","Kendricks, Eric"
-"Posluszny, Paul","Mack, Khalil","Levy, DeAndre"
-"Kendricks, Eric","Kendricks, Eric","Jack, Myles"
-"Lee, Sean","Shazier, Ryan","Anthony, Stephone"
-"Timmons, Lawrence","Hicks, Jordan","Trevathan, Danny"
-"Marshall, Brandon","Kendricks, Mychal","Alexander, Kwon"
-"Kendricks, Mychal","Marshall, Brandon","Hicks, Jordan"
-"Burfict, Vontaze","Trevathan, Danny","Lee, Darron"
-"Shazier, Ryan","Alexander, Kwon","Bucannon, Deone"
-"Smith, Malcolm","Houston, Justin","Barr, Anthony"
-"Jenkins, Jelani","Anthony, Stephone","Thompson, Shaq"
-"Trevathan, Danny","Perryman, Denzel","Smith, Jaylon"
-"Houston, Justin","Jack, Myles","Kendricks, Mychal"
-"Laurinaitis, James","Lee, Darron","Mack, Khalil"
-"Freeman, Jerrell","Smith, Jaylon","Perryman, Denzel"
-"Alexander, Kwon","Lee, Sean","Marshall, Brandon"
-"Brown, Preston","Brown, Preston","Smith, Malcolm"
-"Jackson, DQwell","Jenkins, Jelani","Jones, Deion"
-"Hicks, Jordan","Miller, Von","Burfict, Vontaze"
-"Smith, Jaylon","Barron, Mark","Jenkins, Jelani"
-"Barr, Anthony","Williamson, Avery","Brown, Preston"
-"Mack, Khalil","Barr, Anthony","Barron, Mark"
-"Perryman, Denzel","Burfict, Vontaze","Wright, K.J"
-"Lee, Darron","Smith, Malcolm","Williamson, Avery"
-"Bucannon, Deone","Posluszny, Paul","Alonso, Kiko"
-"Williamson, Avery","Johnson, Derrick","Houston, Justin"
-"Davis, Demario","Ragland, Reggie","Ragland, Reggie"
-"Davis, Thomas","Alonso, Kiko","Robinson, Keenan"
-"Johnson, Derrick","Robinson, Keenan","McKinney, Benardrick"
-"Ryan, Jake","Timmons, Lawrence","Davis, Demario"
-"Wright III, Scooby","Freeman, Jerrell","Heeney, Ben"
-"Anthony, Stephone","Wright, KJ","Bradham, Nigel"
-"Wright, K.J.","Jones, Deion","Posluzny, Paul"
-"Thompson, Shaq","Dansby, Karlos","Te'o, Manti"
-"Robinson, Keenan","Davis, Demario","Lee, Sean"
-"Jones, Deion","Matthews, Clay","Perry, Joshua"
-"Dawson, Paul","Davis, Thomas","Hightower, Dont'a"
-"Alonso, Kiko","McKinney, Benardrick","Dawson, Paul"
-"Miller, Von","Jackson, D'Qwell","Freeman, Jerrell"
-"Bradham, Nigel","Hightower, Dont'a","Laurinitis, James"
-"Jones, Chandler","Campbell, De'Vondre","Martinez, Blake"
-"Harris, David",,"Ryan, Jake"
-"Teo, Manti",,"Campbell, De'Vondre"
-"Morrison, Antonio",,"McClain, Rolando"
-"Ragland, Reggie",,"Jackson, D'Qwell"
-"Dansby, Karlos",,"Moore, Sio"
-"Barrington, Sam",,"Wilson, Ramik"
-"Hodges, Gerald",,"Johnson, Derrick"
-"McKinney, Benardrick",,"Dansby, Karlos"
-"Cushing, Brian",,"Kirksey, Christian"
-"Riley, Perry",,"Goodson, B.J."
-"Tulloch, Stephen",,
-"Sheppard, Kelvin",,
-"McClain, Rolando",,
-"Goodson, B.J.",,
-"Hitchens, Anthony",,
-"Compton, Will",,
-"Wilson, Ramik",,
-"Worrilow, Paul",,
-"Kikaha, Hauoli",,
-"Perry, Joshua",,
-"Ingram, Melvin",,
-"Wilhoite, Michael",,
-"McPhee, Pernell",,
-"McClellin, Shea",,
-"Smith, Aldon",,
-"Kerrigan, Ryan",,
-"Hightower, Donta",,
+FBG,DLF,ffcouchcoach,Bramel Tiers
+"Kuechly, Luke","Kuechly, Luke","Kuechly, Luke","Kuechly, Luke"
+"David, Lavonte","David, Lavonte","David, Lavonte","Bowman, Navorro"
+"Bowman, Navorro","Smith, Telvin","Smith, Telvin","Moseley, C.J."
+"Collins, Jamie","Wagner, Bobby","Ogletree, Alec","David, Lavonte"
+"Ogletree, Alec","Mosley, CJ","Collins, Jamie","Levy, DeAndre"
+"Mosley, C.J.","Ogletree, Alec","Bowman, Navorro","Johnson, Derrick"
+"Smith, Telvin","Bowman, NaVorro","Wagner, Bobby","Jackson, DQwell"
+"Wagner, Bobby","Collins, Jamie","Moseley, C.J.","Collins, Jamie"
+"Jack, Myles","Bucannon, Deone","Shazier, Ryan","Ogletree, Alec"
+"Levy, DeAndre","Levy, DeAndre","Kendricks, Eric","Burfict, Vontaze"
+"Posluszny, Paul","Mack, Khalil","Levy, DeAndre","Alonso, Kiko"
+"Kendricks, Eric","Kendricks, Eric","Jack, Myles","Lee, Sean"
+"Lee, Sean","Shazier, Ryan","Anthony, Stephone","Smith, Telvin"
+"Timmons, Lawrence","Hicks, Jordan","Trevathan, Danny","Wagner, Bobby"
+"Marshall, Brandon","Kendricks, Mychal","Alexander, Kwon","Perryman, Denzel"
+"Kendricks, Mychal","Marshall, Brandon","Hicks, Jordan","Bucannon, Deone"
+"Burfict, Vontaze","Trevathan, Danny","Lee, Darron","Timmons, Lawrence"
+"Shazier, Ryan","Alexander, Kwon","Bucannon, Deone","Marshall, Brandon"
+"Smith, Malcolm","Houston, Justin","Barr, Anthony","Kendricks, Eric"
+"Jenkins, Jelani","Anthony, Stephone","Thompson, Shaq","Trevathan, Danny"
+"Trevathan, Danny","Perryman, Denzel","Smith, Jaylon",
+"Houston, Justin","Jack, Myles","Kendricks, Mychal",
+"Laurinaitis, James","Lee, Darron","Mack, Khalil",
+"Freeman, Jerrell","Smith, Jaylon","Perryman, Denzel",
+"Alexander, Kwon","Lee, Sean","Marshall, Brandon",
+"Brown, Preston","Brown, Preston","Smith, Malcolm",
+"Jackson, DQwell","Jenkins, Jelani","Jones, Deion",
+"Hicks, Jordan","Miller, Von","Burfict, Vontaze",
+"Smith, Jaylon","Barron, Mark","Jenkins, Jelani",
+"Barr, Anthony","Williamson, Avery","Brown, Preston",
+"Mack, Khalil","Barr, Anthony","Barron, Mark",
+"Perryman, Denzel","Burfict, Vontaze","Wright, K.J",
+"Lee, Darron","Smith, Malcolm","Williamson, Avery",
+"Bucannon, Deone","Posluszny, Paul","Alonso, Kiko",
+"Williamson, Avery","Johnson, Derrick","Houston, Justin",
+"Davis, Demario","Ragland, Reggie","Ragland, Reggie",
+"Davis, Thomas","Alonso, Kiko","Robinson, Keenan",
+"Johnson, Derrick","Robinson, Keenan","McKinney, Benardrick",
+"Ryan, Jake","Timmons, Lawrence","Davis, Demario",
+"Wright III, Scooby","Freeman, Jerrell","Heeney, Ben",
+"Anthony, Stephone","Wright, KJ","Bradham, Nigel",
+"Wright, K.J.","Jones, Deion","Posluzny, Paul",
+"Thompson, Shaq","Dansby, Karlos","Te'o, Manti",
+"Robinson, Keenan","Davis, Demario","Lee, Sean",
+"Jones, Deion","Matthews, Clay","Perry, Joshua",
+"Dawson, Paul","Davis, Thomas","Hightower, Dont'a",
+"Alonso, Kiko","McKinney, Benardrick","Dawson, Paul",
+"Miller, Von","Jackson, D'Qwell","Freeman, Jerrell",
+"Bradham, Nigel","Hightower, Dont'a","Laurinitis, James",
+"Jones, Chandler","Campbell, De'Vondre","Martinez, Blake",
+"Harris, David",,"Ryan, Jake",
+"Teo, Manti",,"Campbell, De'Vondre",
+"Morrison, Antonio",,"McClain, Rolando",
+"Ragland, Reggie",,"Jackson, D'Qwell",
+"Dansby, Karlos",,"Moore, Sio",
+"Barrington, Sam",,"Wilson, Ramik",
+"Hodges, Gerald",,"Johnson, Derrick",
+"McKinney, Benardrick",,"Dansby, Karlos",
+"Cushing, Brian",,"Kirksey, Christian",
+"Riley, Perry",,"Goodson, B.J.",
+"Tulloch, Stephen",,,
+"Sheppard, Kelvin",,,
+"McClain, Rolando",,,
+"Goodson, B.J.",,,
+"Hitchens, Anthony",,,
+"Compton, Will",,,
+"Wilson, Ramik",,,
+"Worrilow, Paul",,,
+"Kikaha, Hauoli",,,
+"Perry, Joshua",,,
+"Ingram, Melvin",,,
+"Wilhoite, Michael",,,
+"McPhee, Pernell",,,
+"McClellin, Shea",,,
+"Smith, Aldon",,,
+"Kerrigan, Ryan",,,
+"Hightower, Donta",,,
